@@ -3,7 +3,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/MAN-Smart-Ideas-Smarter-Tomorrow/PAGINA-O-PROJETO?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MAN-Smart-Ideas-Smarter-Tomorrow/PAGINA-O-PROJETO?style=for-the-badge)
 
-<img width="1536" height="1024" alt="ChatGPT Image 1 de dez  de 2025, 16_03_30" src="https://github.com/user-attachments/assets/29065404-089c-4fae-b2ad-40983c8a973a" />
+<img width="1536" height="1024" alt="illustration_paging" src="https://github.com/user-attachments/assets/f7b9f21a-bf30-4643-aef3-f7e0c683aea2" />
+
 
 ## 📌 Overview
 This project implements a paging mechanism to simulate how virtual addresses are translated into physical addresses, while demonstrating how an operating system manages a physical memory space that is smaller than the total virtual memory required by processes.
@@ -31,5 +32,8 @@ This project implements a paging mechanism to simulate how virtual addresses are
 - Main Execution Flow: Centralized main function orchestrating the paging simulation and memory operations.
 
 ## 🛠️ How to run
-
+ ##
+   > [!NOTE]
+   > **RUNNING IN CODESPACE**
+  ##
 
